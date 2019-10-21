@@ -18,6 +18,7 @@ Curated list of Uzbek Telegram dev groups
 - [@react_uz](https://t.me/react_uz)
 - [@angular_uz](https://t.me/angular_uz)
 - [@ngTashkent](https://t.me/ngTashkent)
+- [@sveltejs_uz](https://t.me/sveltejs_uz)
 
 ## Backend
 - [@nodejs_uz](https://t.me/nodejs_uz)
